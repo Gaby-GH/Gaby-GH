@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @Gaby-GH
+- 👀 I’m interested in python, HTML, CSS and Javascript
+- 🌱 I’m currently learning Javascript
+- 💞️ I’m looking to collaborate on fiverr project
+- 📫 How to reach me gab_ltn@icloud.com
+- 😄 Pronouns: Gabz
+- ⚡ Fun fact: I love python but I don't know what to do with it anymore, I've done all the projects possible (please help me and give me a python project :) ) 
